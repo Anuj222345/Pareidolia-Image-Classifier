@@ -1,0 +1,7 @@
+.dropzone-active {
+    border-color: #3b82f6 !important;
+    background-color: #eff6ff !important;
+}
+.gradient-bg {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+}
